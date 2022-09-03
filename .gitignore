@@ -1,0 +1,6 @@
+# Ignore Python Cache
+__pycache__/
+helperFunctions/__pycache__/
+
+# Ignore output file
+Aggregated_file.xls
